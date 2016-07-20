@@ -1,0 +1,19 @@
+{
+  "name": "lovizdcfront",
+  "version": "1.0.0",
+  "description": "el front de lovizdc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryujiin/lovizdcfront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryujiin/lovizdcfront/issues"
+  },
+  "homepage": "https://github.com/ryujiin/lovizdcfront#readme"
+}

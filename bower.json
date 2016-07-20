@@ -1,0 +1,20 @@
+{
+  "name": "lovizdcfront",
+  "description": "el front de lovizdc",
+  "main": "index.js",
+  "authors": [
+    "ryujiin <ryujiin22@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ryujiin/lovizdcfront",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
